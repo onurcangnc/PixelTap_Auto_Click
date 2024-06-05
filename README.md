@@ -122,6 +122,17 @@ Below are the images used for icon detection in the scripts:
 #### `refresh2.PNG` (Reload Page button)
 ![refresh2.PNG](refresh2.PNG)
 
+## Video Tutorial
+
+For a detailed video tutorial, check out the video below:
+
+[![Video Tutorial](https://img.youtube.com/vi/y3wBhtXH4AY/0.jpg)](https://youtu.be/y3wBhtXH4AY)
+
+You can also watch coin cliker script directly on [YouTube](https://youtu.be/y3wBhtXH4AY).
+
+[![Watch the video](https://img.youtube.com/vi/6EF09MRA8-E/0.jpg)](https://www.youtube.com/watch?v=6EF09MRA8-E&t=3s)
+
+You can also watch all coin clicker script directly on [YouTube](https://www.youtube.com/watch?v=6EF09MRA8-E&t=3s).
 ## License
 
 This project is licensed under the MIT License. See the LICENSE file for details.
